@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Project 2 with Aminah Qandeel
+Project 2 with Aminah Qandeel & Courtney Tousssaint, two jupyter notebooks
 
 ![crowdfunding_db_ERD](https://user-images.githubusercontent.com/119809729/227076929-363b8165-b6bc-4798-b3d9-aba59c957676.png)
 
